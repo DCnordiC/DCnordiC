@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DCnordiC
 - 👀 I’m interested in a few things. FPV amongst other
 - 🌱 I’m currently learning Everything FPV!
-- 💞️ I’m looking to collaborate on peace & love
+- 💞️ I’m looking to collaborate on peace, love & FPV
 - 📫 How to reach me - DCnordic@gmail.com
 
 <!---
